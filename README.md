@@ -1,6 +1,6 @@
 # Primeiro-desafio-DIO :athletic_shoe:
 
-*Em uma corrida de 100 metros o podio obteve as valores representadas na tabela abaixo:*
+*Em uma corrida de 100 metros, o tempo de conclusao de prova dos medalhistas estão na tabela a seguir*
 
 | Pódio:   |     Medalhas:     | Tempo:         |
 | :------- | :---------------: | :------------- |
