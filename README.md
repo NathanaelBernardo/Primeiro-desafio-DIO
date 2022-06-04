@@ -1,5 +1,14 @@
-# Primeiro-desafio-DIO
+# Primeiro-desafio-DIO :man_factory_worker:
+
+
+
 Primeira pratica acompanhada.
 
-#T esta  ndo  ⛹️
- 
+## Testando  ⛹️
+
+- primeiro :1st_place_medal:
+- segundo :2nd_place_medal:
+- terveiro :3rd_place_medal:
+
+
+
