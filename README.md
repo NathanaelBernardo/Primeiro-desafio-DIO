@@ -10,5 +10,5 @@ Primeira pratica acompanhada.
 - segundo :2nd_place_medal:
 - terveiro :3rd_place_medal:
 
+# o terceiro colocado foi o mais atrasado. :turtle:
 
-o terceiro colocado foi o mais atrasado.
