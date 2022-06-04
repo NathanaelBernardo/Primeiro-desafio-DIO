@@ -1,6 +1,6 @@
 # Primeiro-desafio-DIO :athletic_shoe:
 
-*Em uma corrida de 100 metros o pódio obteve as marcas representadas na tabela abaixo:*
+*Em uma corrida de 100 metros o podio obteve as valores representadas na tabela abaixo:*
 
 | Pódio:   |     Medalhas:     | Tempo:         |
 | :------- | :---------------: | :------------- |
