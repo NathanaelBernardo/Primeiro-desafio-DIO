@@ -11,4 +11,4 @@ Primeira pratica acompanhada.
 - terveiro :3rd_place_medal:
 
 
-
+o terceiro colocado foi o mais atrasado.
